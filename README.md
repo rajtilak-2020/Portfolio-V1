@@ -1,4 +1,4 @@
-<h1 align="center">🌐 K Raj Tilak's-Website 🌐</h1>
+<h1 align="center">🌐 K Rajtilak's-Website 🌐</h1>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=round-square" alt="Website Status" />
